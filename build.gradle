@@ -31,7 +31,8 @@ dependencies {
             'mysql:mysql-connector-java:8.0.19',
             'org.postgresql:postgresql:42.2.20',
             'io.qameta.allure:allure-junit5:2.17.2',
-            'commons-dbutils:commons-dbutils:1.7'
+            'commons-dbutils:commons-dbutils:1.7',
+            'io.qameta.allure:allure-selenide:2.13.9'
     )
 }
 
