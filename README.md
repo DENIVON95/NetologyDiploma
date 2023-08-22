@@ -17,7 +17,7 @@
 
 2. В новой вкладке терминала ввести следующую команду в зависимости от базы данных:
 - **java -Dspring.datasource.url=jdbc:mysql://localhost:3306/app -jar artifacts/aqa-shop.jar** - для субд MySQL
-- **java -Dspring.datasource-postgresql.url=jdbc:postgresql://localhost:5432/app -jar artifacts/aqa-shop.jar** - для субд PostgreSQL
+- **java -Dspring.datasource.url=jdbc:postgresql://localhost:5432/app -jar artifacts/aqa-shop.jar** - для субд PostgreSQL
   
 <br> **Приложение должно запуститься по адресу http://localhost:8080/** </br> 
 ## <p align="center"> Запуск тестов </p>
