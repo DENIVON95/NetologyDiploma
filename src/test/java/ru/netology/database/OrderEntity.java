@@ -5,8 +5,8 @@ import lombok.Data;
 @Data
 public class OrderEntity {
     private String id;
-    private String creditId;
-    private String paymentId;
-    private String creationDate;
+    private String credit_id;
+    private String payment_id;
+    private String created;
 
 }
