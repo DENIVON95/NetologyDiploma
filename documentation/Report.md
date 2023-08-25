@@ -22,6 +22,6 @@
 
 **Пройдено успешно: 24**
 <br> **Не пройдено: 20** </br>
-![AllureSummary](images/allureSummary.png)
-![debit](images/debitreport.png)
-![credit](images/creditreport.png)
+![AllureSummary](https://github.com/DENIVON95/NetologyDiploma/blob/master/images/allureSummary.png)
+![debit](https://github.com/DENIVON95/NetologyDiploma/blob/master/images/debitreport.png)
+![credit](https://github.com/DENIVON95/NetologyDiploma/blob/master/images/creditreport.png)
