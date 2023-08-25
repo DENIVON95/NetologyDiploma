@@ -22,3 +22,6 @@
 
 **Пройдено успешно: 24**
 <br> **Не пройдено: 20** </br>
+![AllureSummary](images/allureSummary.png)
+![debit](images/debitreport.png)
+![credit](images/creditreport.png)

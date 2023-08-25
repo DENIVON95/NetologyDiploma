@@ -26,13 +26,13 @@ dependencies {
             "org.junit.jupiter:junit-jupiter-api:5.9.2",
             'org.junit.jupiter:junit-jupiter-params:5.9.2',
             "org.projectlombok:lombok:1.18.20",
-            "com.codeborne:selenide:6.13.0",
+            "com.codeborne:selenide:6.17.1",
             'com.github.javafaker:javafaker:1.0.2',
             'mysql:mysql-connector-java:8.0.19',
             'org.postgresql:postgresql:42.2.20',
             'io.qameta.allure:allure-junit5:2.17.2',
             'commons-dbutils:commons-dbutils:1.7',
-            'io.qameta.allure:allure-selenide:2.13.9'
+            'io.qameta.allure:allure-selenide:2.23.0'
     )
 }
 

@@ -12,7 +12,7 @@ public class DataGenerator {
     private static LocalDate futureDate = LocalDate.now().plusYears(1);
     private static Faker faker = new Faker();
     private static String validCardHolderName =  faker.name().fullName();
-    private static String validCVV = valueOf(faker.number().numberBetween(001, 991));
+    private static String validCVV = valueOf(faker.number().numberBetween(111, 991));
 
     @Value
     public static class CardData {
